@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./img-readme/peharge-logo3.7.png" width="250"/>
+    <img src="https://github.com/Peharge/Solution/blob/main/images-readme/solution.ico" width="250"/>
 </p>
 
 <div align="center">
@@ -31,6 +31,17 @@
 
 # Solution-Chess
 
-## Lizenz
+Solution-Chess is an experimental, AI-powered chess assistant. It plays full games against you and analyzes your moves in real time — enabling interactive, strategic, and adaptive gameplay.
 
-Dieses Projekt ist unter der MIT-Lizenz lizenziert – siehe die [LICENSE](LICENSE) Datei für Details.
+💡 Built to explore the intersection of artificial intelligence and classical board strategy.
+
+⚠️ Note: This project is currently undocumented and has not been updated since August 2024. Use at your own risk.
+
+Peharge
+
+<div align="center">
+
+### **_Peharge Terminal_**
+_Peharge Projects 2023_
+
+</div>
