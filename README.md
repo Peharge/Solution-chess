@@ -29,6 +29,8 @@
     </a>
 </div>
 
+<br>
+
 # Solution-Chess
 
 Solution-Chess is an experimental, AI-powered chess assistant. It plays full games against you and analyzes your moves in real time — enabling interactive, strategic, and adaptive gameplay.
